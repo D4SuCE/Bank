@@ -1,0 +1,6 @@
+﻿  bank.cpp
+D:\Work\Cpp\Different Projects\Bank\Bank\src\bank.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+  client.cpp
+  main.cpp
+  Generating Code...
+  Bank.vcxproj -> D:\Work\Cpp\Different Projects\Bank\Debug\Bank.exe
